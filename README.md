@@ -2,7 +2,7 @@
 Trabalho para a disciplina de Desenvolvimento de Aplicativos Web no Colégio Técnico da UFMG
 
 ## Clone de um site
-Meu grupo foi composto pelos usuários Aikenpil (Gustavo Rangel) e !!
+Meu grupo foi composto pelos usuários Aikenpil (Gustavo Rangel) e moreira-gabriel (Gabriel Moreira)
 Em um grupo de três pessoas nós deveríamos fazer um clone de site à escolha, usando html e css (da forma como preferríssemos). O site escolhido foi o próprio site do colégio, disponível <a href="www.coltec.ufmg.br">aqui</a>. Minha parte no trabalho foi fazer o carrosel dos cursos.
 
 ## Dificuldades
